@@ -1,0 +1,51 @@
+pdf_file,lab,product_as_printed,matched_sku,declared_amount_mg,batch,test_date,purity,theoretical_mass,observed_mass,notes
+MAL-26-1614.pdf,Meridian Analytical Labs,Semaglutide,P10,5,PP-2607-002,2026-07-15,99.2,4113.6,4113.9,not used: conflicting reports for same batch (product held)
+MAL-26-1791.pdf,Meridian Analytical Labs,GHK-Cu,P04,50,,2026-05-22,98.9,403.9,404.1,SCAN rotated 90 deg; Batch/Lot field blank (empty line); used: final COA
+MAL-26-1812.pdf,Meridian Analytical Labs,Hexarelin,P24,5,PP-2606-021,,99.2,887.0,887.3,Test date field blank; used: final COA
+MAL-26-1950.pdf,Meridian Analytical Labs,Sermorelin,P08,5,PP-2507-020,2025-08-20,98.7,3357.9,3358.1,batch and date differ from sheet (PP-2602-006 / 2026-02-10); used: final COA
+MAL-26-2013.pdf,Meridian Analytical Labs,Thymalfasin (Thymosin Alpha-1),P22,5,PP-2606-012,2026-06-19,99.0,3108.3,3108.9,used: final COA
+MAL-26-2186.pdf,Meridian Analytical Labs,Ipamorelin,P05,5,PP-2608-016,2026-08-20,97.6,711.9,712.0,used: final COA
+MAL-26-2408.pdf,Meridian Analytical Labs,Tirzepatide,P11,15,PP-2608-011,2026-08-19,99.0,4813.5,4813.8,declared amount differs from sheet; used: final COA
+MAL-26-2486.pdf,Meridian Analytical Labs,Selank,P15,5,PP-2608-005,2026-08-14,99.1,751.9,752.0,"SCAN upright, legible; stamped VOID ""issued in error - do not use""; ignored: report stamped VOID"
+MAL-26-3028.pdf,Meridian Analytical Labs,DSIP,P19,5,PP-2607-024,2026-07-30,,848.8,849.0,Purity field blank; used: final COA
+MAL-26-3181.pdf,Meridian Analytical Labs,GHRP-6,P26,5,PP-2606-025,2026-06-16,99.0,873.0,873.2,used: final COA
+MAL-26-3363.pdf,Meridian Analytical Labs,Cagrilintide,P29,5,PP-2607-030,2026-07-31,98.1,4409.0,4409.6,"SCAN upright, low resolution (72 dpi) but legible; used: final COA"
+MAL-26-3471.pdf,Meridian Analytical Labs,BPC-157,P01,5,PP-2510-012,2025-11-02,99.0,1419.5,1419.4,ignored: older test date than chosen MAL-26-6305.pdf
+MAL-26-4657.pdf,Meridian Analytical Labs,DSIP,P19,5,PP-2603-002,2026-03-05,99.0,848.8,848.9,ignored: older test date than chosen MAL-26-3028.pdf
+MAL-26-5744.pdf,Meridian Analytical Labs,GHRP-6,P26,5,PP-2601-019,2026-01-21,98.8,873.0,872.9,ignored: older test date than chosen MAL-26-3181.pdf
+MAL-26-6305.pdf,Meridian Analytical Labs,BPC-157,P01,5,PP-2608-003,2026-08-12,99.4,1419.5,1419.7,used: final COA
+MAL-26-7499.pdf,Meridian Analytical Labs,Thymalfasin (Thymosin Alpha-1),P22,5,PP-2512-022,2025-12-19,98.5,3108.3,3108.1,"SCAN upright, legible; ignored: older test date than chosen MAL-26-2013.pdf"
+MAL-26-7851.pdf,Meridian Analytical Labs,AOD-9604,P13,5,PP-2603-014,2026-03-11,98.9,1815.1,1815.0,ignored: older test date than chosen MAL-26-8104.pdf
+MAL-26-7955.pdf,Meridian Analytical Labs,Selank,P15,5,PP-2512-018,2025-12-04,98.7,751.9,752.1,used: final COA
+MAL-26-8104.pdf,Meridian Analytical Labs,AOD-9604,P13,5,PP-2607-009,2026-07-28,99.3,1815.1,1815.4,"SCAN upright, low resolution (72 dpi) but legible; used: final COA"
+MAL-26-9779.pdf,Meridian Analytical Labs,Ipamorelin,P05,5,PP-2601-010,2026-01-14,98.4,711.9,711.8,ignored: older test date than chosen MAL-26-2186.pdf
+MAL-26-9858.pdf,Meridian Analytical Labs,Cagrilintide,P29,5,PP-2603-017,2026-03-26,98.3,4409.0,4408.8,ignored: older test date than chosen MAL-26-3363.pdf
+CBA-2506105.pdf,Coastal BioAssay,GHRP-2 (Pralmorelin),P25,5,PP-2511-003,2025-11-06,98.6,817.9,817.7,"SCAN 2 pages upright, low resolution (72 dpi) but legible; converted from '5 mg' / '11/06/2025'; ignored: older test date than chosen CBA-2528977.pdf"
+CBA-2507747.pdf,Coastal BioAssay,Bremelanotide (PT-141),P17,10,PP-2606-030,2026-06-11,98.2,1025.2,1025.5,converted from '10 mg' / '06/11/2026'; used: final COA
+CBA-2509156.pdf,Coastal BioAssay,Epitalon (Epithalon),P14,10,PP-2603-022,2026-04-03,99.6,390.4,390.5,converted from '10 mg' / '04/03/2026'; used: final COA
+CBA-2512337.pdf,Coastal BioAssay,CJC-1295,P06,2,PP-2606-017,2026-06-30,99.2,3367.9,3368.2,name printed without DAC qualifier; converted from '2 mg' / '06/30/2026'; used: final COA
+CBA-2515439.pdf,Coastal BioAssay,Gonadorelin acetate (GnRH),P30,2,PP-2510-016,2025-11-15,99.3,1182.3,1182.6,converted from '2 mg' / '11/15/2025'; used: final COA
+CBA-2528140.pdf,Coastal BioAssay,Tesamorelin,P09,5,PP-2606-014,2026-06-25,98.6,5135.9,5136.2,Revision 2 - supersedes CBA-2566510 (Revision 1); issued 07/08/2026; converted from '5 mg' / '06/25/2026'; used: final COA
+CBA-2528977.pdf,Coastal BioAssay,GHRP-2 (Pralmorelin),P25,5,PP-2607-012,2026-07-23,99.1,817.9,818.2,converted from '5 mg' / '07/23/2026'; used: final COA
+CBA-2531544.pdf,Coastal BioAssay,Epitalon (Epithalon),P14,10,PP-2510-009,2025-10-28,99.1,390.4,390.6,"SCAN 2 pages rotated 90 deg, legible; converted from '10 mg' / '10/28/2025'; ignored: older test date than chosen CBA-2509156.pdf"
+CBA-2547931.pdf,Coastal BioAssay,CJC-1295,P06,2,PP-2512-005,2025-12-05,98.8,3367.9,3367.6,"SCAN 2 pages upright, legible; name printed without DAC qualifier; 12/05/2025 read as MM/DD = 5 Dec 2025; converted from '2 mg' / '12/05/2025'; ignored: older test date than chosen CBA-2512337.pdf"
+CBA-2551750.pdf,Coastal BioAssay,Thymosin Beta-4 Fragment (TB-500),P03,5,PP-2509-007,2025-10-09,98.9,889.0,889.3,10/09/2025 read as MM/DD = 9 Oct 2025; converted from '5 mg' / '10/09/2025'; used: final COA
+CBA-2554937.pdf,Coastal BioAssay,KPV,P28,10,PP-2508-031,2025-09-12,99.4,341.4,341.5,09/12/2025 read as MM/DD = 12 Sep 2025; converted from '10 mg' / '09/12/2025'; used: final COA
+CBA-2566510.pdf,Coastal BioAssay,Tesamorelin,P09,5,PP-2606-014,2026-06-25,97.8,5135.9,5136.2,Revision 1 (original issue) - superseded by CBA-2528140; converted from '5 mg' / '06/25/2026'; ignored: superseded by revision CBA-2528140.pdf
+CBA-2574115.pdf,Coastal BioAssay,Bremelanotide (PT-141),P17,10,PP-2601-027,2026-01-09,98.9,1025.2,1025.0,01/09/2026 read as MM/DD = 9 Jan 2026; converted from '10 mg' / '01/09/2026'; ignored: older test date than chosen CBA-2507747.pdf
+CBA-2582657.pdf,Coastal BioAssay,MOTS-c,P21,10,PP-2607-027,2026-07-17,98.4,2174.6,2175.0,"SCAN 2 pages rotated 180 deg (upside down), legible; converted from '10 mg' / '07/17/2026'; used: final COA"
+CBA-2585319.pdf,Coastal BioAssay,Thymosin Beta-4 Fragment (TB-500),P03,5,PP-2502-004,2025-03-04,99.2,889.0,888.8,03/04/2025 read as MM/DD = 4 Mar 2025; converted from '5 mg' / '03/04/2025'; ignored: older test date than chosen CBA-2551750.pdf
+NPT-RS-33688.pdf,Northgate Peptide Testing,BPC 157,P02,10,PP-2602-008,2026-02-17,98.7,1419.5,1419.3,"converted from '0,010 g' / '17.02.2026'; ignored: older test date than chosen NPT-RS-84830.pdf"
+NPT-RS-33688.pdf,Northgate Peptide Testing,Thymosin Beta-4 (full length),,5,PP-2606-040,2026-06-10,98.8,4963.4,4963.9,"unmatched; converted from '0,005 g' / '10.06.2026'; ignored: matches no product"
+NPT-RS-50433.pdf,Northgate Peptide Testing,Kisspeptin-10,P20,5,PP-2602-003,2026-02-08,99.1,1302.4,1302.6,"batch = sheet batch; converted from '0,005 g' / '08.02.2026'; ignored: older test date than chosen NPT-RS-50433.pdf"
+NPT-RS-50433.pdf,Northgate Peptide Testing,Kisspeptin-10,P20,5,PP-2608-010,2026-08-02,98.6,1302.4,1302.7,"02.08.2026 read as DD.MM = 2 Aug 2026; converted from '0,005 g' / '02.08.2026'; used: final COA"
+NPT-RS-50433.pdf,Northgate Peptide Testing,Kisspeptin-10,P20,5,PP-2605-001,2026-05-12,99.4,1302.4,1302.5,"12.05.2026 read as DD.MM = 12 May 2026; converted from '0,005 g' / '12.05.2026'; ignored: older test date than chosen NPT-RS-50433.pdf"
+NPT-RS-50433.pdf,Northgate Peptide Testing,Pinealon,,10,PP-2607-033,2026-07-21,99.0,359.4,359.5,"unmatched; converted from '0,010 g' / '21.07.2026'; ignored: matches no product"
+NPT-RS-83434.pdf,Northgate Peptide Testing,Semaglutide,P10,5,PP-2607-002,2026-07-18,98.4,4113.6,4114.0,"same batch as MAL-26-1614 with different purity/date, no revision note; converted from '0,005 g' / '18.07.2026'; not used: conflicting reports for same batch (product held)"
+NPT-RS-83434.pdf,Northgate Peptide Testing,Retatrutide,P12,12,PP-2608-019,2026-08-27,98.8,4731.3,4731.7,"declared amount differs from sheet; converted from '0,012 g' / '27.08.2026'; used: final COA"
+NPT-RS-83434.pdf,Northgate Peptide Testing,LL-37,P23,5,PP-2608-007,2026-08-22,96.9,4493.3,4493.6,"converted from '0,005 g' / '22.08.2026'; used: final COA"
+NPT-RS-84830.pdf,Northgate Peptide Testing,BPC 157,P02,10,PP-2607-021,2026-07-21,99.1,1419.5,1419.8,"converted from '0,010 g' / '21.07.2026'; used: final COA"
+NPT-RS-84830.pdf,Northgate Peptide Testing,Semax,P16,5,PP-2608-002,2026-08-06,99.3,813.9,814.1,"converted from '0,005 g' / '06.08.2026'; used: final COA"
+NPT-RS-84830.pdf,Northgate Peptide Testing,CJC-1295 DAC,P07,2,PP-2606-018,2026-07-02,99.0,3647.2,3651.0,"observed mass 3.8 Da off theoretical; converted from '0,002 g' / '02.07.2026'; used: final COA"
+NPT-RS-99391.pdf,Northgate Peptide Testing,Oxytocin,P27,2,PP-2608-013,2026-08-25,99.5,1007.2,1007.4,"SCAN upright, legible; converted from '0,002 g' / '25.08.2026'; used: final COA"
+NPT-RS-99391.pdf,Northgate Peptide Testing,Semax,P16,5,PP-2510-011,2025-10-14,98.9,813.9,813.8,"SCAN upright, legible; converted from '0,005 g' / '14.10.2025'; ignored: older test date than chosen NPT-RS-84830.pdf"

@@ -1,0 +1,4 @@
+SKU,Name,old_price,new_price,reason
+P11,Tirzepatide,179.00,249.00,COA MAL-26-2408.pdf declares 15 mg vs sheet 10 mg; price list Tirzepatide 15 mg = 249.00 (rule 8 size corrected)
+P16,Semax,48.00,52.00,sheet price 48.00 differs from price list 52.00 for Semax 5 mg (rule 8)
+P25,GHRP-2,39.00,36.00,sheet price 39.00 differs from price list 36.00 for GHRP-2 5 mg (rule 8)
